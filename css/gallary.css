@@ -1,0 +1,40 @@
+.bgimg8{background: url(../img/gallary/bridal-cars-for-hire-min.jpg);background-repeat: no-repeat;background-position: bottom;background-size: cover;}
+
+
+*{
+	padding:0;
+	margin:0;
+}
+
+/*	general	*/
+
+section{
+    padding: 50px 0;
+}
+
+/*	gallery */
+
+
+.filter-button{
+    font-size: 18px;
+    border: 2px solid #DAA520;
+	padding:5px 10px;
+    text-align: center;
+    color: #DAA520;
+    margin-bottom: 30px;
+	background:transparent;
+}
+.filter-button:hover,
+.filter-button:focus,
+.filter-button.active{
+    color: black;
+    background-color:#DAA520;
+	outline:none;transition: 0.2s;
+}
+.gallery_product{
+    margin: 0px;
+	padding:0;
+	position:relative;
+}
+
+/*	end gallery */

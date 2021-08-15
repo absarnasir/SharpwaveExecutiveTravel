@@ -1,0 +1,9 @@
+.bgimg5{background: url(../img/services-lesus.jpg);background-repeat: no-repeat;background-position: center;background-size: cover;}
+
+.textpaddingcenter{padding-top: 16%;padding-bottom: 16%;}
+.servicesm{margin: 3rem;}
+@media only screen and (max-width: 425px) {
+    .textpaddingcenter{padding-top: 50%;padding-bottom: 50%;}
+    .padding{padding: 0;}
+    .servicesm{margin: 0rem;}
+    }
